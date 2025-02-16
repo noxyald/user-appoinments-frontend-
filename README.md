@@ -10,3 +10,15 @@ Currently, two official plugins are available:
 ![alt text]([?https://github.com/noxyald/user-appoinments-frontend-/blob/main/home.png raw=true](https://github.com/noxyald/user-appoinments-frontend-/edit/main/README.md))
 
 ![alt text](https://github.com/noxyald/user-appoinments-frontend-/blob/main/home.png)
+
+![alt text]([?raw=true](https://github.com/noxyald/user-appoinments-frontend-/blob/main/appoitmnet-section.png)
+
+![alt text](https://github.com/noxyald/user-appoinments-frontend-/blob/main/banner-section.png)
+
+![alt text](https://github.com/noxyald/user-appoinments-frontend-/blob/main/about.png)
+
+![alt text](https://github.com/noxyald/user-appoinments-frontend-/blob/main/contact.png)
+
+
+
+
